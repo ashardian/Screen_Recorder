@@ -1,0 +1,6 @@
+# requirements.txt
+PyQt6>=6.5.0
+
+# ffmpeg must be installed on your system (not via pip)
+# Linux: sudo apt install ffmpeg
+# Windows: download from https://ffmpeg.org/download.html and add to PATH
